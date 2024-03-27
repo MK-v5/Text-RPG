@@ -1,0 +1,45 @@
+{
+  "wolf": {
+    "HitPoints": 0,
+    "SkillPoints": 0,
+    "MagicPoints": 0
+  },
+  "cat": {
+    "HitPoints": 0,
+    "SkillPoints": 0,
+    "MagicPoints": 0
+  },
+  "fox": {
+    "HitPoints": 0,
+    "SkillPoints": 0,
+    "MagicPoints": 0
+  },
+  "dragon": {
+    "CharacterName": "Marcell",
+    "RaceNAME": "Dragon",
+    "HitPoints": 30,
+    "SkillPoints": 15,
+    "MagicPoints": 10
+  },
+  "knight": {
+    "Strength": 0,
+    "Defense": 0,
+    "Agility": 0
+  },
+  "rogue": {
+    "Strength": 0,
+    "Defense": 0,
+    "Agility": 0
+  },
+  "mage": {
+    "Strength": 0,
+    "Defense": 0,
+    "Agility": 0
+  },
+  "berserk": {
+    "CLASSName": "Berserk",
+    "Strength": 40,
+    "Defense": 15,
+    "Agility": 10
+  }
+}
