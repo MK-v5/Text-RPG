@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdventureRpg.Classes.Abilities
+namespace ConsoleRPG
 {
     class Skills
     {

@@ -1,5 +1,4 @@
-﻿using ConsoleRPG.Classes.Functions;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Reflection.PortableExecutable;
@@ -13,6 +12,7 @@ namespace ConsoleRPG
     {
         //Combat c = new Combat();
         Menu m = new Menu();
+/*
         public void Scenario1_k()
         {
             Console.Clear();
@@ -37,5 +37,6 @@ namespace ConsoleRPG
             Console.WriteLine("Golden Age.");
             //c.RunCombat();
         }
+*/
     }
 }

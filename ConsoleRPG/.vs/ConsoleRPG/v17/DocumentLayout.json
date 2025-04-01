@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\items\\armours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\items\\armours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\functions\\charactercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\functions\\charactercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\abilities\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\abilities\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\abilities\\magicalskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\abilities\\magicalskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\functions\\jsaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\functions\\jsaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\functions\\gamestates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\functions\\gamestates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\functions\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\functions\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\functions\\encounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\functions\\encounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\items\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\items\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\items\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\items\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\functions\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\functions\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\playerattributes\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\playerattributes\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\functions\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\functions\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\playerattributes\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\playerattributes\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|c:\\users\\31645\\desktop\\projecten\\noorderpoort\\text-rpg\\consolerpg\\classes\\playerattributes\\weaponbehaviourattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6C7617-FE9D-4187-8C11-501B71F335B8}|ConsoleRPG.csproj|solutionrelative:classes\\playerattributes\\weaponbehaviourattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7a2895ae-9400-589b-a96d-d1a564c8ecf7}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Encounter.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\Encounter.cs",
+              "RelativeDocumentMoniker": "Classes\\Functions\\Encounter.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\Encounter.cs",
+              "RelativeToolTip": "Classes\\Functions\\Encounter.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:15:33.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jsaves.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\Jsaves.cs",
+              "RelativeDocumentMoniker": "Classes\\Functions\\Jsaves.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\Jsaves.cs",
+              "RelativeToolTip": "Classes\\Functions\\Jsaves.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwHEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:21:26.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Items\\Items.cs",
+              "RelativeDocumentMoniker": "Classes\\Items\\Items.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Items\\Items.cs",
+              "RelativeToolTip": "Classes\\Items\\Items.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:14:43.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\Menu.cs",
+              "RelativeDocumentMoniker": "Classes\\Functions\\Menu.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\Menu.cs",
+              "RelativeToolTip": "Classes\\Functions\\Menu.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAYwAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:15:39.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MagicalSkills.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Abilities\\MagicalSkills.cs",
+              "RelativeDocumentMoniker": "Classes\\Abilities\\MagicalSkills.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Abilities\\MagicalSkills.cs",
+              "RelativeToolTip": "Classes\\Abilities\\MagicalSkills.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:21:55.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameStates.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\GameStates.cs",
+              "RelativeDocumentMoniker": "Classes\\Functions\\GameStates.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\GameStates.cs",
+              "RelativeToolTip": "Classes\\Functions\\GameStates.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:06:04.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Armours.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Items\\Armours.cs",
+              "RelativeDocumentMoniker": "Classes\\Items\\Armours.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Items\\Armours.cs",
+              "RelativeToolTip": "Classes\\Items\\Armours.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:14:22.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Game.cs",
+              "RelativeDocumentMoniker": "Classes\\Game.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Game.cs",
+              "RelativeToolTip": "Classes\\Game.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:15:08.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Skills.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Abilities\\Skills.cs",
+              "RelativeDocumentMoniker": "Classes\\Abilities\\Skills.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Abilities\\Skills.cs",
+              "RelativeToolTip": "Classes\\Abilities\\Skills.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:21:59.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterCreator.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\CharacterCreator.cs",
+              "RelativeDocumentMoniker": "Classes\\Functions\\CharacterCreator.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\CharacterCreator.cs",
+              "RelativeToolTip": "Classes\\Functions\\CharacterCreator.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:17:28.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Weapons.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Items\\Weapons.cs",
+              "RelativeDocumentMoniker": "Classes\\Items\\Weapons.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Items\\Weapons.cs",
+              "RelativeToolTip": "Classes\\Items\\Weapons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:14:50.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\PlayerAttributes\\Player.cs",
+              "RelativeDocumentMoniker": "Classes\\PlayerAttributes\\Player.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\PlayerAttributes\\Player.cs",
+              "RelativeToolTip": "Classes\\PlayerAttributes\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:07:49.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:12:33.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Combat.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\Combat.cs",
+              "RelativeDocumentMoniker": "Classes\\Functions\\Combat.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\Combat.cs",
+              "RelativeToolTip": "Classes\\Functions\\Combat.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA9wDwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:15:25.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Rooms.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\Rooms.cs",
+              "RelativeDocumentMoniker": "Classes\\Functions\\Rooms.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\Functions\\Rooms.cs",
+              "RelativeToolTip": "Classes\\Functions\\Rooms.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:15:54.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\PlayerAttributes\\Entity.cs",
+              "RelativeDocumentMoniker": "Classes\\PlayerAttributes\\Entity.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\PlayerAttributes\\Entity.cs",
+              "RelativeToolTip": "Classes\\PlayerAttributes\\Entity.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:45:08.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeaponBehaviourAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\PlayerAttributes\\WeaponBehaviourAttribute.cs",
+              "RelativeDocumentMoniker": "Classes\\PlayerAttributes\\WeaponBehaviourAttribute.cs",
+              "ToolTip": "C:\\Users\\31645\\Desktop\\Projecten\\NoorderPoort\\Text-RPG\\ConsoleRPG\\Classes\\PlayerAttributes\\WeaponBehaviourAttribute.cs",
+              "RelativeToolTip": "Classes\\PlayerAttributes\\WeaponBehaviourAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:25:21.929Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

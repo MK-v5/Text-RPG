@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleRPG.Classes.Functions
+namespace ConsoleRPG
 {
     class Encounter
     {
@@ -16,7 +16,7 @@ namespace ConsoleRPG.Classes.Functions
         }
         public void EnCounTER()
         {
-            //c.RunCombat();
+
         }
         void WildLifeEnemyEncounter()
         {

@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleRPG.Classes.Functions
-{
+namespace ConsoleRPG
+{ 
     class Combat
     {
         Menu tMenu = new Menu();
@@ -59,7 +59,7 @@ namespace ConsoleRPG.Classes.Functions
             Thread.Sleep(700);
             if (HP > 0)
             {
-                //RunCombat();
+                RunCombat();
             }
             if (HP == 0)
             {
@@ -70,6 +70,7 @@ namespace ConsoleRPG.Classes.Functions
         {
             Console.WriteLine("Congrations You Won Demo.");
             Thread.Sleep(1000);
+            Environment.Exit(0);
             //tMenu.RunPauseMenu();
         }
         void Fail()
@@ -124,7 +125,7 @@ namespace ConsoleRPG.Classes.Functions
                 string[] fText = { form };
                 string[] options = { "Attack", "Skills", "Magic", "Items", "Escape" };
                 string prompt = "Enemy Appeared What would you Do? :";
-                //tMenu.MenuCreate(options, prompt, lText, fText);
+                tMenu.MenuCreate(options, prompt, lText, fText);
                 int selectedIndex = tMenu.Run();
                 switch (selectedIndex)
                 {
